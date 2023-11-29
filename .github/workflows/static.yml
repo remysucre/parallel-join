@@ -36,7 +36,7 @@ jobs:
         with:
           args: >-
             fmt.yml README.md -s -o index.html
-            --csl=acm.csl --citeproc --bibliography=cdb.bib
+            --csl=acm.csl --citeproc --bibliography=references.bib
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
