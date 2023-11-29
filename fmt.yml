@@ -1,6 +1,7 @@
 ---
 title: Parallel Join Algorithms
-mainfont: sans-serif;
+mainfont: sans-serif
+link-citations: true
 nocite: |
   @*
 header-includes: |
